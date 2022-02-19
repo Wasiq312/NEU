@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+.top-main {
+    background-color: black;
+    padding: 8px 0px;
+}
+
+h4 {
+    margin: 0px 8px;
+    font-size: 13px;
+    font-weight: 350;
+}
+
+i {
+    padding: 0px 3px;
+    color: #ffffffd1;
+}
+
+.top-icon i {
+    cursor: pointer;
+    color: #ffffffd1;
+    padding: 0px 10px;
+    font-size: 16px;
+}
+
+.nav {
+    background-color: #014073;
+}
+
+.logo {
+    font-size: 200%;
+    font-weight: 600;
+    cursor: pointer;
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+    padding: 0px 18px !important;
+}
+
+.nav-link:hover {
+    color: rgb(238, 255, 0) !important;
+}
+
+.banner-head {
+    color: red;
+    padding: 11% 10%;
+    position: absolute !important;
+    font-size: 45px;
+    font-weight: 600;
+    color: #014073;
+}
+
+.services {
+    border: 1px solid lightgrey;
+    padding: 55px 10px;
+    width: 368px;
+    border-radius: 10px;
+    margin: 12px auto !important;
+}
+
+.box {
+    width: 300px;
+    height: 110px;
+    margin: 5px auto;
+    padding: 15px 0px;
+}
+
+.box-head {
+    color: black;
+    font-size: 25px;
+    font-weight: 400;
+    padding: 20px 0px;
+}
+
+.box-para {
+    color: black;
+    font-size: 16px;
+    color: #6C757D;
+}
+
+.services .btn {
+    display: block;
+    margin: auto;
+    width: 120px;
+    padding: 4px 0px;
+    border-radius: 15px;
+    background-color: #ff9d34 !important;
+    box-shadow: none !important;
+    border: 1px solid #ff9d34;
+    color: rgb(243, 239, 239);
+    font-weight: 500;
+    transition: 0.4s;
+}
+
+section {
+    background-color: #f8f9fa!important;
+    padding: 100px 0px;
+}
+
+.section-head {
+    color: #014073;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.section-para {
+    color: #6C757D;
+    padding: 18px 0px;
+    font-size: 20px;
+}
+
+section .btn {
+    display: block;
+    margin: auto;
+    width: 120px;
+    padding: 4px 0px;
+    border-radius: 15px;
+    background-color: #ff9d34 !important;
+    box-shadow: none !important;
+    border: 1px solid #ff9d34 !important;
+    color: rgb(243, 239, 239);
+    font-weight: 500;
+    transition: 0.4s;
+}
+
+section .btn:hover {
+    background-color: rgb(27, 27, 27) !important;
+    color: rgb(255, 255, 255);
+    border: 1px solid lightgrey !important;
+}
+
+.services .btn:hover {
+    background-color: rgb(27, 27, 27) !important;
+    color: rgb(255, 255, 255);
+    border: 1px solid lightgrey !important;
+}
+
+.section-2 {
+    background-color: #f8f9fa!important;
+    padding: 100px 0px;
+}
+
+.section-2 i {
+    font-size: 55px;
+    margin: auto;
+    display: block;
+    width: 60px;
+    padding: 40px 0px;
+    margin-top: -65px;
+}
+
+.req {
+    padding: 50px 0px;
+    background-color: #014073;
+    border-bottom: 1px solid white;
+}
+
+.req-head {
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 6px 0px;
+}
+
+.rbtn {
+    box-shadow: none !important;
+    outline: none !important;
+    border: none !important;
+    padding: 8px 24px !important;
+    background-color: #ff9d34 !important;
+    color: rgb(255, 255, 255);
+    border-radius: 30px;
+    font-weight: 500;
+    transition: 0.4s;
+}
+
+.rbtn:hover {
+    background-color: black !important;
+    color: white;
+    border: none !important;
+}
+
+footer {
+    padding: 60px;
+    background-color: #014073;
+}
+
+.r-point {
+    padding: 10px 0px;
+}
+
+.f-nav {
+    padding: 7px 0px;
+}
+
+.f-nav1 {
+    padding: 4px 0px;
+}
+
+.f-social {
+    padding: 8px 0px;
+}
